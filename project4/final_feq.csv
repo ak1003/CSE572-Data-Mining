@@ -1,0 +1,44 @@
+,con,anc
+0,frozenset({'0.9i'}),frozenset({'240m'})
+1,frozenset({'0.9i'}),frozenset({'240o'})
+2,frozenset({'1.2i'}),frozenset({'110o'})
+3,frozenset({'1.4i'}),frozenset({'100o'})
+4,frozenset({'1.5i'}),frozenset({'120m'})
+5,frozenset({'1.5i'}),frozenset({'120o'})
+6,frozenset({'1.5i'}),frozenset({'260o'})
+7,frozenset({'1.5i'}),frozenset({'270m'})
+8,frozenset({'1.5i'}),frozenset({'90o'})
+9,frozenset({'1.6i'}),frozenset({'80o'})
+10,frozenset({'1.7i'}),frozenset({'160o'})
+11,frozenset({'1.8i'}),frozenset({'130o'})
+12,frozenset({'2.0i'}),frozenset({'170o'})
+13,frozenset({'2.0i'}),frozenset({'250o'})
+14,frozenset({'2.0i'}),frozenset({'260m'})
+15,frozenset({'2.1i'}),frozenset({'60o'})
+16,frozenset({'2.3i'}),frozenset({'310o'})
+17,frozenset({'2.3i'}),frozenset({'350m'})
+18,frozenset({'0.9i'}),"frozenset({'240o', '240m'})"
+19,frozenset({'1.0i'}),"frozenset({'150o', '180m'})"
+20,frozenset({'1.2i'}),"frozenset({'110o', '130m'})"
+21,frozenset({'1.2i'}),"frozenset({'140o', '160m'})"
+22,frozenset({'1.3i'}),"frozenset({'210o', '230m'})"
+23,frozenset({'1.4i'}),"frozenset({'100o', '140m'})"
+24,"frozenset({'140m', '1.4i'})",frozenset({'100o'})
+25,frozenset({'1.5i'}),"frozenset({'120m', '120o'})"
+26,"frozenset({'120o', '1.5i'})",frozenset({'120m'})
+27,frozenset({'1.5i'}),"frozenset({'120o', '130m'})"
+28,frozenset({'1.5i'}),"frozenset({'90o', '130m'})"
+29,frozenset({'1.5i'}),"frozenset({'270m', '260o'})"
+30,"frozenset({'260o', '1.5i'})",frozenset({'270m'})
+31,"frozenset({'270m', '1.5i'})",frozenset({'260o'})
+32,frozenset({'1.6i'}),"frozenset({'80o', '130m'})"
+33,frozenset({'1.6i'}),"frozenset({'150o', '160m'})"
+34,frozenset({'1.7i'}),"frozenset({'190m', '160o'})"
+35,frozenset({'1.7i'}),"frozenset({'180m', '180o'})"
+36,frozenset({'1.8i'}),"frozenset({'130o', '180m'})"
+37,frozenset({'2.1i'}),"frozenset({'140o', '140m'})"
+38,frozenset({'2.0i'}),"frozenset({'170o', '180m'})"
+39,frozenset({'2.0i'}),"frozenset({'260m', '250o'})"
+40,"frozenset({'260m', '2.0i'})",frozenset({'250o'})
+41,frozenset({'2.1i'}),"frozenset({'60o', '230m'})"
+42,frozenset({'2.3i'}),"frozenset({'310o', '350m'})"
